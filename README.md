@@ -2,9 +2,9 @@
 
 **Resources for learning GIT and GITHUB** 
 <br> 
-    1. Freecodecamp : https://www.youtube.com/watch?v=RGOj5yH7evk \
-    2. Gitbutler, so you thing you know git : https://www.youtube.com/watch?v=aolI_Rz0ZqY\
-    3. Introduction to git, by Harvard: https://www.youtube.com/watch?v=MJUJ4wbFm_A&t=402s\
+    1. Freecodecamp : https://www.youtube.com/watch?v=RGOj5yH7evk <br>
+    2. Gitbutler, so you thing you know git : https://www.youtube.com/watch?v=aolI_Rz0ZqY <br>
+    3. Introduction to git, by Harvard: https://www.youtube.com/watch?v=MJUJ4wbFm_A&t=402s <br>
 </br>
 
 
@@ -17,12 +17,12 @@
 
 > Simple Step:
 <br>
-    1. type your code in local \
-    2. git add: to track changes that you made in local (tip: use git diff to see the changes in cmd)\
-    3. git commit: to save the changes in local machine \
-    4. git status: see the status of your git \
-    5. git push: push the changes to github \
-    6. git pull: pull the perhaps* new version changes \
+    1. type your code in local <br>
+    2. git add: to track changes that you made in local (tip: use git diff to see the changes in cmd) <br>
+    3. git commit: to save the changes in local machine <br>
+    4. git status: see the status of your git <br>
+    5. git push: push the changes to github <br>
+    6. git pull: pull the perhaps* new version changes <br>
     7. git clone: to clone from github repository 
 </br>
 
