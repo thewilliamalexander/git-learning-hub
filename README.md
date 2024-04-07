@@ -16,15 +16,13 @@
 </p>
 
 > Simple Step:
-<br>
     1. type your code in local <br>
     2. git add: to track changes that you made in local (tip: use git diff to see the changes in cmd) <br>
     3. git commit: to save the changes in local machine <br>
     4. git status: see the status of your git <br>
     5. git push: push the changes to github <br>
     6. git pull: pull the perhaps* new version changes <br>
-    7. git clone: to clone from github repository 
-</br>
+    7. git clone: to clone from github repository
 
 ## git add
 <p> git add . is for tracking changes in all files </p> 
